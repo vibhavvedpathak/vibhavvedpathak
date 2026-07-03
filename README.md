@@ -113,16 +113,6 @@ Machine learning solution for customer churn prediction and sales forecasting.
 - 🐳 Kubernetes in Production
 - 🤖 Multi-Agent Systems
 
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vibhavvedpathak&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vibhavvedpathak&layout=compact&langs_count=8&theme=tokyonight"/>
-</p>
-
----
 
 ## 🔥 GitHub Streak
 
