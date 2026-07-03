@@ -6,25 +6,29 @@
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=900&lines=MSc+Artificial+Intelligence+Student;AI+Engineer+%7C+Backend+Developer;Data+Engineering+and+Cloud+Enthusiast;Building+AI+Systems+for+Real+World+Problems;Always+Learning+Something+New+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=900&lines=MSc+Artificial+Intelligence+Student;AI+Engineer+%7C+Backend+Developer;Data+Engineering+and+Cloud+Enthusiast;Building+AI+Systems+for+Real+World+Problems;Always+Learning+Something+New+🚀" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=vibhavvedpathak&label=Profile%20views&color=0e75b6&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=vibhavvedpathak&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
-<img align="right" alt="Coding" width="350" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYm8zc3h4ZWprN2dhcmkyZzg5b242cGJyMnc5NmxldmF3dW1objJ3eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o6Ztr9s7vPAS8XtK0/giphy.gif">
+<p align="center">
+  <img width="400" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYm8zc3h4ZWprN2dhcmkyZzg5b242cGJyMnc5NmxldmF3dW1objJ3eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o6Ztr9s7vPAS8XtK0/giphy.gif" alt="Coding GIF"/>
+</p>
+
+---
 
 ## 🚀 About Me
 
 - 🎓 Currently pursuing **MSc Artificial Intelligence** at **BTU Cottbus-Senftenberg**
-- 🤖 Passionate about **Artificial Intelligence, Machine Learning and LLMs**
+- 🤖 Passionate about **Artificial Intelligence, Machine Learning, LLMs and Agentic AI**
 - 📊 Interested in **Data Engineering, Data Warehousing and ETL Pipelines**
-- ☁️ Exploring **Cloud Computing and Distributed Systems**
+- ☁️ Exploring **Cloud Computing, Distributed Systems and MLOps**
 - 💻 Building **Backend Applications and AI Solutions**
-- 🐳 Learning **Docker, Kubernetes and MLOps**
+- 🐳 Learning **Docker, Kubernetes and Production Systems**
 - 🇩🇪 Based in Germany
-- 🌍 Open to Internship and Working Student opportunities
+- 🌍 Open to **Internship** and **Working Student** opportunities
 - 🚀 Goal: Build intelligent systems that solve real-world problems
 
 ---
@@ -32,33 +36,40 @@
 ## 🛠️ Tech Stack
 
 ### 👨‍💻 Languages
-<p>
-<img src="https://skillicons.dev/icons?i=python,java,ts,js,sql" />
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,ts,js,sql" />
 </p>
 
 ### 🤖 AI & Machine Learning
-<p>
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
-<img src="https://img.shields.io/badge/LangChain-121D33?style=for-the-badge" />
-<img src="https://img.shields.io/badge/LangGraph-0A66C2?style=for-the-badge" />
-<img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge" />
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
+  <br><br>
+  <img src="https://img.shields.io/badge/LangChain-121D33?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/LangGraph-0A66C2?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge" />
 </p>
 
 ### ⚙️ Backend Development
-<p>
-<img src="https://skillicons.dev/icons?i=fastapi,spring,postgres,mysql" />
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=fastapi,spring,postgres,mysql" />
 </p>
 
 ### ☁️ Cloud & DevOps
-<p>
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,githubactions" />
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,githubactions" />
 </p>
 
 ### 📊 Data & Analytics
-<p>
-<img src="https://skillicons.dev/icons?i=mongodb,postgres" />
-<img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge" />
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mongodb,postgres" />
+  <br><br>
+  <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge" />
 </p>
 
 ---
@@ -102,16 +113,28 @@ Machine learning solution for customer churn prediction and sales forecasting.
 - 🐳 Kubernetes in Production
 - 🤖 Multi-Agent Systems
 
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vibhavvedpathak&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vibhavvedpathak&layout=compact&langs_count=8&theme=tokyonight"/>
+</p>
+
+---
+
 ## 🔥 GitHub Streak
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=vibhavvedpathak&theme=tokyonight" />
 </p>
 
+---
 
 ## 🤝 Connect With Me
 
-<p align="left">
+<p align="center">
 <a href="https://www.linkedin.com/in/vibhav-vedpathak-a51312244/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
@@ -125,7 +148,13 @@ Machine learning solution for customer churn prediction and sales forecasting.
 
 ## 💭 Quote
 
+<p align="center">
+
 > *"The best way to predict the future is to build it."*
+
+</p>
+
+---
 
 <p align="center">
 ⭐ Thanks for visiting my profile! ⭐
