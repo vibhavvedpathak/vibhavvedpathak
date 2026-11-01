@@ -114,13 +114,7 @@ Machine learning solution for customer churn prediction and sales forecasting.
 - 🤖 Multi-Agent Systems
 
 
-## 🔥 GitHub Streak
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vibhavvedpathak&theme=tokyonight" />
-</p>
-
----
 
 ## 🤝 Connect With Me
 
